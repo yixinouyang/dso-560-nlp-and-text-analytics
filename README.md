@@ -9,3 +9,4 @@
 ## Week 2
 
 * Pandas Overview
+* [Lecture 2](https://usc.zoom.us/rec/share/-51TI6ns3V9JfInQ40T7Wo5_EqjaX6a81XdN8vIFxb0_rpwlbutR0btHELXqrWU)
