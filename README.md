@@ -10,3 +10,7 @@
 
 * Pandas Overview
 * [Lecture 2](https://usc.zoom.us/rec/share/-51TI6ns3V9JfInQ40T7Wo5_EqjaX6a81XdN8vIFxb0_rpwlbutR0btHELXqrWU)
+
+## Week 3
+
+* [Lecture 3](https://usc.zoom.us/rec/share/xMY2Ppj59XNISYnN-U7icZx8H8f6X6a8gXNP-qdZn0Y-pWmY4HO7kwaO2edO8sRh)
