@@ -14,3 +14,7 @@
 ## Week 3
 
 * [Lecture 3](https://usc.zoom.us/rec/share/xMY2Ppj59XNISYnN-U7icZx8H8f6X6a8gXNP-qdZn0Y-pWmY4HO7kwaO2edO8sRh)
+
+## Week 4
+
+* [Lecture 4](https://usc.zoom.us/rec/share/utMpcb7fzmFLAa_RzEPhUO0cAYvhX6a8hCYY_vVYyEt5ipbQPmbbsDO88HGJ5B9e)
