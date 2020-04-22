@@ -22,3 +22,8 @@
 ## Week 5
 
 * [Lecture 5](https://usc.zoom.us/rec/share/x95McZjg1kJOY5WUsGz6ZasMTqemaaa8gSdI-vIFzR5_qKUqRajjqeafY1pjrktS)
+
+## Week 6
+
+* [Lecture 6](https://usc.zoom.us/rec/share/yPUuFKOv7EhOE7Ps8F6CYpIcBJnleaa82nJKq_IPmUxwx-WmqykdC-pnaa0mlXaS)
+* [Connecting to Group Project Database](https://www.youtube.com/watch?v=Bdi8YTbT7nQ&feature=youtu.be)
