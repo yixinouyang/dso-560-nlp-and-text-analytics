@@ -2,6 +2,26 @@
 # Embeddings
 glove.6B.100d.txt
 
+categories.csv
+
+extra_data.csv
+
+Full+data.csv
+
+full_data.csv
+
+outfits.csv
+
+tagged_product_attributes.csv
+
+usc_additional_tags.csv
+
+USC+Product+Attribute+Data+03302020.xlsx
+
+womens_clothing_reviews.csv
+
+Womens+Attributes.xlsx
+
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
