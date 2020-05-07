@@ -31,3 +31,6 @@
 ## Week 7
 
 * [Lecture 7](https://usc.zoom.us/rec/share/75JVAarZ0XhLXbfC7BDhd_8kTtu7eaa80yEa_vFen0psMGexx7v4DhRaLcAH9KST)
+
+## Week 8
+* [Lecture 8](https://usc.zoom.us/rec/share/xN5VCpTX_V5LU5GRzX7OQq0xAr7Faaa80HNLrvYOn0u9_UAMLQsQUBNsxjmJmdUG)
